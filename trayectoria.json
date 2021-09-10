@@ -1,0 +1,607 @@
+
+{
+    "title": {
+        "media": {
+          "url": "",
+          "caption": " <a target=\"_blank\" href=''>credits</a>",
+          "credit": ""
+        },
+        "text": {
+          "headline": "Una línea de tiempo",
+          "text": "<p>El resumen más completo y caótico de las decisiones que he tomado a lo largo del tiempo y que definen quién soy actualmente.</p><p>Versión 1. Pendiente de revisar y completar.</p>"
+        },
+        "background":{
+          "color":"#000000"}
+    },
+    "scales": "human",
+    "events": [
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/lanzarote.png?raw=true",
+          "caption": "Créditos: erebyel. Trazado de la isla de Lanzarote",
+          "alt": "Trazado de la isla canaria de Lanzarote."
+        },
+        "start_date": {
+          "year": "1988",
+          "month":"12",
+          "day":"23"
+        },
+        "text": {
+          "headline": "Nacimiento en Lanzarote",
+          "text": "<p>Nací antes de lo que me tocaba; tenía prisa, vamos. Según me cuenta mi madre, tenía previsto que naciese en Gran Canaria en enero de 1989. Parece que no me gustó mucho la idea, así que me adelanté y nací en Lanzarote justo el día en que mi madre iba a coger el avión. Fui madrugadora: a las 7.30 h (hora local)… tocando las narices desde el principio.</p>"
+        },
+        "background":{
+          "color":"#000000"}
+      },
+      {
+        "start_date": {
+          "year": "1992",
+          "month":"09"
+        },
+        "end_date": {
+          "year": "2000",
+          "month":"06"
+        },
+        "text": {
+          "headline": "C.E.I.P. Playa Honda",
+          "text": "<p>Soy hija de maestros. Fui al mismo colegio en el que trabajaban mis padres.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/bailarina.png?raw=true",
+          "caption": "Créditos: erebyel",
+          "alt": "Bailarina folclórica de Lanzarote."
+        },
+        "start_date": {
+          "year": "1994"
+        },
+        "end_date": {
+          "year": "2006",
+          "month":"07"
+        },
+        "text": {
+          "headline": "Agrupación Folclórica Tahod",
+          "text": "<p>Durante toda la niñez y adolescencia una de las actividades <i>extraescolares</i> fue participar en un grupo folclórico de Lanzarote, siendo parte del cuerpo de baile. Durante años dediqué todas las mañanas de domingo a participar en las actuaciones de un hotel con el grupo y a alguna otra actuación en eventos puntuales que surgían, como romerías, fiestas locales, otros hoteles, etc.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "<iframe src=\"https://www.erebyel.es/anecdotario-el-gato-de-schrodinger\"></iframe>"
+        },
+        "start_date": {
+          "year": "2000",
+          "month":"09"
+        },
+        "end_date": {
+          "year": "2006",
+          "month":"06"
+        },
+        "text": {
+          "headline": "Instituto y bachillerato de Ciencias de la Salud",
+          "text": "<p>Podría decirse que era una alumna de notable, un poco desastre… pero ¿quién no lo era de adolescente? No me esforzaba mucho en hincar codos, siempre me ha resultado fácil aprender cosas nuevas. Los dos primeros años de instituto los hice en el IES Playa Honda; posteriormente, me trasladaría al de San Bartolomé, donde terminé la ESO e hice el Bachillerato de Ciencias de la Salud, con la idea de estudiar veterinaria o astronomía… aunque luego la decisión final se fue por otro sitio.</p>"
+        },
+        "background":{
+          "color":"#000000"}
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/retratos.png?raw=true",
+          "caption": "Créditos: erebyel (2007)",
+          "alt": "Retratos realizados durante el curso."
+        },
+        "start_date": {
+          "year": "2006"
+        },
+        "end_date": {
+          "year": "2007"
+        },
+        "text": {
+          "headline": "Curso intensivo de pintura de retrato clásico",
+          "text": "<p><b>168 horas. Centro de educación de personas adultas de Lanzarote (CEPAL)</b><br/> Profesor: Santiago Llop Castarlenas.</p> <p>Durante un año estuve planteándome qué quería hacer. Estuve a punto de meterme en Bellas Artes después de finalizar este curso; pero eso significaba quedarme en Canarias, además, me gusta dibujar y pintar, pero no me veía siendo una <i>artista</i>.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/diseno-graf-1.jpeg?raw=true",
+          "caption": "Créditos: erebyel (2014).<br/>Diseño de periódico realizado durante la FP de diseño, no guardo copia de los materiales que realicé en este curso.",
+          "alt": "Diseño en papel de un proyecto de periódico."
+        },
+        "start_date": {
+          "year": "2006"
+        },
+        "end_date": {
+          "year": "2007"
+        },
+        "text": {
+          "headline": "Curso técnico de auxiliar de diseño gráfico",
+          "text": "<p><b>664 horas.</b><br/> ACEPRO, en Lanzarote.</p> <p>Mi padre siempre ha dicho que no es bueno quedarse parado; al menos, es lo que se me ha quedado en la cabeza. Durante el año en el que me planteaba qué quería hacer —es divertido que esperaran que en un año lo supiera cuando, con treinta y pico sigo guiándome por la intuición—, estudiase algo para no perder la costumbre. Así que me inscribí y hice este curso introductorio al diseño gráfico, donde aprendí herramientas un poco desactualizadas (para qué mentir…).</p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2007",
+          "month":"09"
+        },
+        "end_date": {
+          "year": "2010",
+          "month":"06"
+        },
+        "text": {
+          "headline": "Diplomatura en Biblioteconomía y Documentación",
+          "text": "<p><b>Universidad Carlos III de Madrid</b></p> <p>Una carrera maravillosa y multidisciplinar que todos piensan que solo sirve para trabajar en una biblioteca. Aparte de las asignaturas relacionadas, la carrera también se centra en la gestión y estructura de las bases de datos, gestión de la información, análisis métricos de datos, etc.</p><p>Durante la carrera se deben realizar dos meses de práctica en total; las mías fueron primero en el Archivo Municipal de Getafe y luego, al año siguiente, en el Archivo Histórico de Teguise (en Lanzarote).</p>"
+        },
+        "background":{
+          "color":"#000000"}
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/taller.jpeg?raw=true",
+          "caption": "Créditos: erebyel (2015).",
+          "alt": "Macro de una hoja de trébol afectada por un minador."
+        },
+        "start_date": {
+          "year": "2009",
+          "month":"07"
+        },
+        "end_date": {
+          "year": "2009",
+          "month":"07"
+        },
+        "text": {
+          "headline": "Taller de escritura narrativa",
+          "text": "<p><b>20 horas.</b><br/> Círculo de Bellas Artes.</p> <p></p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/c-fotografia.jpeg?raw=true",
+          "caption": "Créditos: erebyel (2015).",
+          "alt": "Fotografía macro de una abeja libando"
+        },
+        "start_date": {
+          "year": "2010",
+          "month":"06"
+        },
+        "end_date": {
+          "year": "2010",
+          "month":"07"
+        },
+        "text": {
+          "headline": "Curso de fotografía: usos de la imagen",
+          "text": "<p><b>20 horas.</b><br/> Círculo de Bellas Artes.</p> <p></p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/guion.jpeg?raw=true",
+          "caption": "Créditos: erebyel (2015).",
+          "alt": "Engimono, amuleto japonés, colgado de la rama de un cerezo."
+        },
+        "start_date": {
+          "year": "2011",
+          "month":"07"
+        },
+        "end_date": {
+          "year": "2011",
+          "month":"07"
+        },
+        "text": {
+          "headline": "Guion de Cine",
+          "text": "<p><b>20 horas.</b><br/> Círculo de Bellas Artes.</p> <p></p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2010",
+          "month":"09"
+        },
+        "end_date": {
+          "year": "2011",
+          "month":"05"
+        },
+        "text": {
+          "headline": "Becaria de documentación",
+          "text": "<p><b>Veo7 (Unidad Editorial)</b></p> <p>Durante esta beca estuve en el departamento de documentación, tratando vídeos para el archivo y su minutado para poder luego recuperarlos adecuadamente como recursos para los informativos.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "Créditos: (<a href=''>enlace de crécitos</a>)"
+        },
+        "start_date": {
+          "year": "2010",
+          "month":"09"
+        },
+        "end_date": {
+          "year": "2012",
+          "month":"09"
+        },
+        "text": {
+          "headline": "Grado en Información y Documentación",
+          "text": "<p><b>Universidad Carlos III de Madrid</b></p> <p>Después de diplomarme, con el plan Bolonia pisándonos los talones, nos ofrecieron la posibilidad de hacer el curso de adaptación al grado. Aproveché estos años para, además de sacarme las asignaturas, adquirir un poco de experiencia laboral con diferentes puestos como becaria.</p>"
+        },
+        "background":{
+          "color":"#000000"}
+      },
+      {
+        "start_date": {
+          "year": "2011",
+          "month":"09"
+        },
+        "end_date": {
+          "year": "2012",
+          "month":"09"
+        },
+        "text": {
+          "headline": "Becaria de archivo",
+          "text": "<p><b>Archivo General de la Universidad Carlos III de Madrid</b>(en Leganés)</p> <p>Eramos dos becarias y nos encargábamos de mantener actualizada la base de datos del archivo, hacíamos la limpieza y guardado de los documentos, gestionando la entrada y salida de aquellos que solicitaban los diferentes departamentos de la universidad.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/diseno-graf-2.png?raw=true",
+          "caption": "Créditos: erebyel (2014).<br/>Diseño de revista, fotografía y logo propios.",
+          "alt": "Diseño en papel del proyecto de revista que realicé durante el curso."
+        },
+        "start_date": {
+          "year": "2012",
+          "month":"09"
+        },
+        "end_date": {
+          "year": "2014",
+          "month":"06"
+        },
+        "text": {
+          "headline": "FPGS en<br/>Diseño Gráfico y Producción Editorial",
+          "text": "<p><b>IES Luis Buñuel</b> (Móstoles)</p> <p>Durante el curso aprendí a manejar tanto herramientas de diseño como inDesign, illustrator y Photoshop, como nociones básicas de diseño gráfico y, también, editorial (como materiales de impresión, formatos paraeditoriales, estructura del libro, etc.)</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/dipteros.png?raw=true",
+          "caption": "Créditos: erebyel (2014).<br/>Diseño realizado para el libro <i>Dípteros</i>, de Carlos Diez del Corral (edicion personal).",
+          "alt": "Diseño de la cubierta del libro Dípteros."
+        },
+        "start_date": {
+          "year": "2014",
+          "month":"03"
+        },
+        "end_date": {
+          "year": "2014",
+          "month":"06"
+        },
+        "text": {
+          "headline": "Prácticas de la FPGS en Opera Prima / Edición Personal",
+          "text": "<p>Durante las prácticas las becarias que había en la editorial nos encargábamos de llevar el departamento de comunicación y también la gestión de pedidos. Llamábamos a medios y contactábamos para conseguir cierta repercusión para los autores que publicaban en esta editorial de coedición.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/edicionpersonal2.png?raw=true",
+          "caption": "Créditos: erebyel (2014).<br/>Diseños realizados para diferentes publicaciones de la editorial edición personal",
+          "alt": "Diferentes diseños de cubierta creados para edición personal"
+        },
+        "start_date": {
+          "year": "2014",
+          "month":"09"
+        },
+        "end_date": {
+          "year": "2015",
+          "month":"03"
+        },
+        "text": {
+          "headline": "Responsable de producción en Opera Prima / Edición Personal",
+          "text": "<p>Durante este tiempo, aunque estuve sin contrato, aprendí a llevar el departamento de producción de la editorial, también a crear un sistema de trabajo propio (ya que no existía) y planteé una base de datos para guardar la información producida por la editorial a la que llamé Draco.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/edicionpersonal3.png?raw=true",
+          "caption": "Créditos: erebyel (2014).<br/>Diseños realizados para diferentes publicaciones de la editorial edición personal",
+          "alt": "Diferentes diseños de cubierta creados para edición personal"
+        },
+        "start_date": {
+          "year": "2015",
+          "month":"07"
+        },
+        "end_date": {
+          "year": "2016",
+          "month":"04"
+        },
+        "text": {
+          "headline": "Coordinadora de producción en Opera Prima / Edición Personal",
+          "text": "<p>Volví a llevar el departamento de producción de la editorial, coordinando los diferentes proyectos propuestos por los autores, gestionando las entregas de la imprenta a los mismos, hablando con los proveedores (correctores, maquetadores, etc.); también me llevaba algún trabajo a casa para ir aprendiendo como correctora y diseñadora editorial.</p><p>Cuando finalicé mi experiencia allí, reconozco que fue una mala salida, pero actualmente bromeo con que fue una experiencia que me enseñó lo que no se debe hacer para llevar una editorial.</p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2016",
+          "month":"01"
+        },
+        "end_date": {
+          "year": "2016",
+          "month":"03"
+        },
+        "text": {
+          "headline": "Curso de Gestión de Proyectos Editoriales",
+          "text": "<p><b>45 horas.</b> Cálamo y Cran.<br/>Tutor: María Varela Rodríguez.</p><p></p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2016",
+          "month":"08"
+        },
+        "end_date": {
+          "year": "2016",
+          "month":"11"
+        },
+        "text": {
+          "headline": "Curso de Redacción publicitaria: <i>storytelling</i>",
+          "text": "<p><b>44 horas.</b> Cálamo y Cran.<br/>Tutor: Víctor Javier Sanz Fernández.</p><p></p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2017",
+          "month":"08"
+        },
+        "end_date": {
+          "year": "2017",
+          "month":"11"
+        },
+        "text": {
+          "headline": "Curso de Edición independiente",
+          "text": "<p><b>48 horas.</b> Cálamo y Cran.<br/>Tutor: Antonio Martín Fernández.</p><p></p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2018",
+          "month":"03"
+        },
+        "end_date": {
+          "year": "2018",
+          "month":"06"
+        },
+        "text": {
+          "headline": "Curso de Corrección de estilo",
+          "text": "<p><b>44 horas.</b> Cálamo y Cran.<br/>Tutor: Alfonso Ruiz Carrasco.</p><p></p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2018",
+          "month":"06"
+        },
+        "end_date": {
+          "year": "2018",
+          "month":"09"
+        },
+        "text": {
+          "headline": "Taller de ortografía y gramática",
+          "text": "<p><b>35 horas.</b> Cálamo y Cran.<br/>Tutor: Alfonso Ruiz Carrasco</p><p></p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/mcg-1.jpeg?raw=true",
+          "caption": "Créditos: erebyel.",
+          "alt": "Frutos secos en cestas, tonalidades rojas."
+        },
+        "start_date": {
+          "year": "2015",
+          "month":"04"
+        },
+        "end_date": {
+          "year": "2015",
+          "month":"07"
+        },
+        "text": {
+          "headline": "Auxiliar de maquetación en Madrid Comunicación Gráfica",
+          "text": "<p>Aprendí y comencé a realizar trabajos de corrección y maquetación de materiales publicitarios. Fue donde comencé a aplicar todo lo aprendido en la FP de Diseño y Producción Editorial.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/mcg-2.jpeg?raw=true",
+          "caption": "Créditos: erebyel.",
+          "alt": "Noria por la noche. Fotografía de larga exposición."
+        },
+        "start_date": {
+          "year": "2015",
+          "month":"10"
+        },
+        "end_date": {
+          "year": "2016",
+          "month":"04"
+        },
+        "text": {
+          "headline": "Apoyo de maquetación en Madrid Comunicación Gráfica",
+          "text": "<p>Como en Edición Personal trabajaba solo por las mañanas, complementé durante ese tiempo el trabajo siendo apoyo en la empresa por las tardes para diferentes tareas: maquetación, corrección de materiales, etc.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/mcg-3.jpeg?raw=true",
+          "caption": "Créditos: erebyel.",
+          "alt": "Coronas de flores de diferentes colores."
+        },
+        "start_date": {
+          "year": "2016",
+          "month":"04"
+        },
+        "end_date": {
+          "year": "2018",
+          "month":"07"
+        },
+        "text": {
+          "headline": "Coordinadora de equipo en Madrid Comunicación Gráfica",
+          "text": "<p>Una vez finalizada mi experiencia en Edición Personal, volví a trabajar a tiempo completo en Madrid CG; allí comencé a llevar un equipo de diseño, donde nos encargábamos de realizar folletos para el supermercado Dia; aparte de llevar los tiempos de producción que requerían las entregas, me encargaba de correcciones de materiales en general, redacción de cuñas publicitarias, preparación del equipo y los materiales con los que el resto de compañeros tenían que llevar a cabo el trabajo, etc.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "<iframe src=\"https://www.erebyel.es/microtoria-vesania-la-muneca-primera-parte/\"></iframe>",
+          "caption": "Primer relato que hice en el taller, en enero de 2019."
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"10"
+        },
+        "end_date": {
+          "year": "2020",
+          "month":"06"
+        },
+        "text": {
+          "headline": "Taller de escritura creativa",
+          "text": "<p><b>aprox. 90 horas.</b><br/>LLevado a cabo durante 2019 y 2020, los lunes nos enfocábamos en escribir durante varias horas. El taller lo llevaba Patricia Reguero, periodista, en el Centro Cívico de Julián Besteiro de Leganés.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "<iframe src=\"https://www.erebyel.es/pt-l3n1n/\"></iframe>",
+          "caption": "Primer relato que hice en el taller, en enero de 2019."
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"01"
+        },
+        "end_date": {
+          "year": "2021",
+          "month":"12"
+        },
+        "text": {
+          "headline": "Escríbeme, Cerveza (taller)",
+          "text": "<p>Durante estos años he estado reuniendo a los amigos mensualmente para dedicar una tarde entera a escribir relatos cortos y trabajar con ellos, utilizando para ello herramientas como <a href=\"https://www.erebyel.es/microtoria/gilbert/\">Gilbert </a>, u otras herramientas que ayudan a trabajar con la imaginación.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/autonoma.jpeg?raw=true",
+          "caption": "Créditos: erebyel.",
+          "alt": "Conexiones hechas con hilos."
+        },
+        "start_date": {
+          "year": "2019",
+          "month":"02"
+        },
+        "text": {
+          "headline": "Correctora y editora de textos como Autónoma",
+          "text": "<p>Edición de textos y corrección de estilo, ortotipográfica, consultoría privada a autores noveles, autopublicación. También diseño enfocado a editorial tanto impreso como digital (formatos EPub y mobi —Amazon—). Redacción de textos, storytelling y copy.</p><p>Además, realizo tareas de tratamiento, recodificado, manipulación y limpieza de datos para poder ajustarlo a los requisitos de exportación e importación de las plataformas</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/medium.png?raw=true",
+          "caption": "<a href=\"https://medium.com/@erebyel\">Mi perfil en Medium</a>, donde encontrarás diferentes artículos que he ido escribiendo sobre Ciencia de Datos, Procesamiento de Lenguaje Natural y tecnologías relacionadas con la Inteligencia Artificial.",
+          "alt": "Imagen del perfil de Medium."
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"11"
+        },
+        "end_date": {
+          "year": "2021",
+          "month":"07"
+        },
+        "text": {
+          "headline": "Profesora Auxiliar de Ciencia de Datos",
+          "text": "<p>Atención y ayuda al estudiante durante las clases de Ciencia de datos, control de asistencia, gestión de materiales de apoyo para el alumno y apoyo para el profesor y los alumnos durante el desarrollo de las clases.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/Erebyel/trayectoria/blob/main/gallery/github.png?raw=true",
+          "caption": "<a href=\"https://github.com/Erebyel\">Mi perfil de GitHub.</a>",
+          "alt": "Imagen del perfil de GitHub."
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"02"
+        },
+        "end_date": {
+          "year": "2020",
+          "month":"10"
+        },
+        "text": {
+          "headline": "Curso inmersivo de Ciencia de Datos",
+          "text": "<p>El curso fue muy intenso y dimos muchas pinceladas a muchos temas; por supuesto, no tengo intención de profundizar en todos. Tengo claro porqué quería meterme y cuál es la ruta que quiero seguir. Tengo la intención, al menos con las partes que me resultan más interesantes, ir generando el repositorio de Ciencia de datos. No estará todo, porque hay cosas en las que a estas alturas no quiero detenerme.</p>"
+        },
+        "background":{
+          "color":"#000000"}
+      },
+      {
+        "start_date": {
+          "year": "2021",
+          "month":"06"
+        },
+        "end_date": {
+          "year": "2021",
+          "month":"06"
+        },
+        "text": {
+          "headline": "MongoDB - La mejor Base de Datos NoSQL desde cero",
+          "text": "<p><b>7 horas.</b> Udemy.<br/>Tutor: Grover Vázquez</p><p>Número de certificado: UC-681567a3-8a79-45a5-8225-634c3f4372b3</p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2021",
+          "month":"06"
+        },
+        "end_date": {
+          "year": "2021",
+          "month":"07"
+        },
+        "text": {
+          "headline": "Agilidad y Lean. Gestionando los proyectos y negocios del siglo XXI (12.ª ed.)",
+          "text": "<p><b>50 horas.</b>Miríadax | URJC<br/></p><p>Dispone de verificación blockchain | Fecha de emisión: 20 de julio de 2021 | Identificador: 09824657-c6de-46f3-8e93-fd6aff15968b</p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2021",
+          "month":"07"
+        },
+        "end_date": {
+          "year": "2021",
+          "month":"08"
+        },
+        "text": {
+          "headline": "Deep Learning con Python y Keras. Redes Neuronales avanzado",
+          "text": "<p><b>41,5 horas.</b> Udemy.<br/>Tutor: PhD. Manuel Castillo-Cara</p><p>Número de certificado: UC-9b8a3e42-cc42-4ee0-8e2c-cd6967fe1759</p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2021",
+          "month":"08"
+        },
+        "end_date": {
+          "year": "2021",
+          "month":"08"
+        },
+        "text": {
+          "headline": " Procesamiento del Lenguaje Natural Moderno en Python",
+          "text": "<p><b>10 horas.</b> Udemy.<br/>Tutor: Juan Gabriel Gomilla Salas, Martin Jocqueviel, Ligency Team</p><p>Número de certificado: UC-70941bfd-ce04-4c30-9458-8e80779a8941</p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2021",
+          "month":"08"
+        },
+        "end_date": {
+          "year": "2021",
+          "month":"08"
+        },
+        "text": {
+          "headline": " Aprende BERT, el algoritmo de NLP más avanzado de Google",
+          "text": "<p><b>9,5 horas.</b> Udemy.<br/>Tutor: Juan Gabriel Gomilla Salas, Martin Jocqueviel, Ligency Team</p><p>Número de certificado: UC-d99b30de-2819-45d4-9af2-b08f19e70401</p>"
+        }
+      }
+    ]
+}
